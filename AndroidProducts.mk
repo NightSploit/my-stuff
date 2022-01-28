@@ -17,4 +17,4 @@
 #
 
 PRODUCT_MAKEFILES := \
-     $(LOCAL_DIR)/omni_H8296.mk
+     $(LOCAL_DIR)/omni_akari.mk
